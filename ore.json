@@ -1,15 +1,92 @@
-
-
 {
-  "veldspar":
-    {
-      "compressed" : 0.16,
-      "uncompressed" : 0.3
-    },
-  "pyroxeres":
-    {
-      "compressed" : 0.16,
-      "uncompressed" : 0.3
-    }
+
+    "arkonor" : { "uncompressed" : 16, "compressed" : 8.8 },
+    "crimson arkonor" : { "uncompressed" : 16, "compressed" : 8.8 },
+    "flawless arkonor" : { "uncompressed" : 16, "compressed" : 8.8 },
+    "prime arkonor" : { "uncompressed" : 16, "compressed" : 8.8 },
+
+    "bezdnacine" : { "uncompressed" : 16, "compressed" : 16 },
+
+    "bistot" : { "uncompressed" : 16, "compressed" : 4.4 },
+    "cubic bistot" : { "uncompressed" : 16, "compressed" : 4.4 },
+    "monoclinic bistot" : { "uncompressed" : 16, "compressed" : 4.4 },
+    "triclinic bistot" : { "uncompressed" : 16, "compressed" : 4.4 },
+
+    "crokite" : { "uncompressed" : 16, "compressed" : 7.81 },
+    "crystalline crokite" : { "uncompressed" : 16, "compressed" : 7.81 },
+    "pellucid crokite" : { "uncompressed" : 16, "compressed" : 7.81 },
+    "sharp crokite" : { "uncompressed" : 16, "compressed" : 7.81 },
+
+    "brilliant gneiss" : { "uncompressed" : 5, "compressed" : 1.8 },
+    "gneiss" : { "uncompressed" : 5, "compressed" : 1.8 },
+    "iridescent gneiss" : { "uncompressed" : 5, "compressed" : 1.8 },
+    "prismatic gneiss" : { "uncompressed" : 5, "compressed" : 1.8 },
+
+    "hedbergite" : { "uncompressed" : 3, "compressed" : 0.47 },
+    "glazed hedbergite" : { "uncompressed" : 3, "compressed" : 0.47 },
+    "lustrous hedbergite" : { "uncompressed" : 3, "compressed" : 0.47 },
+    "vitric hedbergite" : { "uncompressed" : 3, "compressed" : 0.47 },
+
+    "hemorphite" : { "uncompressed" : 3, "compressed" : 0.86 },
+    "radiant hemorphite" : { "uncompressed" : 3, "compressed" : 0.86 },
+    "scintillating hemorphite" : { "uncompressed" : 3, "compressed" : 0.86 },
+    "vivid hemorphite" : { "uncompressed" : 3, "compressed" : 0.86 },
+
+    "jaspet" : { "uncompressed" : 2, "compressed" : 0.15 },
+    "immaculate jaspet" : { "uncompressed" : 2, "compressed" : 0.15 },
+    "pristine jaspet" : { "uncompressed" : 2, "compressed" : 0.15 },
+    "pure jaspet" : { "uncompressed" : 2, "compressed" : 0.15},
+
+    "kernite" : { "uncompressed" : 1.2, "compressed" : 0.19 },
+    "fiery kernite" : { "uncompressed" : 1.2, "compressed" : 0.19 },
+    "luminous kernite" : { "uncompressed" : 1.2, "compressed" : 0.19 },
+    "resplendant kernite" : { "uncompressed" : 1.2, "compressed" : 0.19 },
+
+    "mercoxit" : { "uncompressed" : 40, "compressed" : 0.1 },
+    "magma mercoxit" : { "uncompressed" : 40, "compressed" : 0.1 },
+    "vitreous mercoxit" : { "uncompressed" : 40, "compressed" : 0.1 },
+
+    "dark ochre" : { "uncompressed" : 8, "compressed" : 4.2 },
+    "jet ochre" : { "uncompressed" : 8, "compressed" : 4.2 },
+    "obsidian ochre" : { "uncompressed" : 8, "compressed" : 4.2 },
+    "onyx ochre" : { "uncompressed" : 8, "compressed" : 4.2 },
+
+    "omber" : { "uncompressed" : 0.6, "compressed" : 0.3 },
+    "golden omber" : { "uncompressed" : 0.6, "compressed" : 0.3 },
+    "platinoid omber" : { "uncompressed" : 0.6, "compressed" : 0.3 },
+    "silvery omber" : { "uncompressed" : 0.6, "compressed" : 0.3 },
+
+    "plagioclase" : { "uncompressed" : 0.35, "compressed" : 0.15 },
+    "azure plagioclase" : { "uncompressed" : 0.35, "compressed" : 0.15 },
+    "rich plagioclase" : { "uncompressed" : 0.35, "compressed" : 0.15 },
+    "sparkling plagioclase" : { "uncompressed" : 0.35, "compressed" : 0.15 },
+
+    "pyroxeres" : { "uncompressed" : 0.3, "compressed" : 0.16 },
+    "opulent pyroxeres" : { "uncompressed" : 0.3, "compressed" : 0.16 },
+    "solid pyroxeres" : { "uncompressed" : 0.3, "compressed" : 0.16 },
+    "viscous pyroxeres" : { "uncompressed" : 0.3, "compressed" : 0.16 },
+
+    "rakovene" : { "uncompressed" : 16, "compressed" : 16 },
+
+    "scordite" : { "uncompressed" : 0.15, "compressed" : 0.19 },
+    "condensed scordite" : { "uncompressed" : 0.15, "compressed" : 0.19 },
+    "glossy scordite" : { "uncompressed" : 0.15, "compressed" : 0.19 },
+    "massive scordite" : { "uncompressed" : 0.15, "compressed" : 0.19 },
+
+    "spodumain" : { "uncompressed" : 16, "compressed" : 28 },
+    "bright spodumain" : { "uncompressed" : 16, "compressed" : 28 },
+    "dazzling spodumain" : { "uncompressed" : 16, "compressed" : 28 },
+    "gleaming spodumain" : { "uncompressed" : 16, "compressed" : 28 },
+
+    "talassonite" : { "uncompressed" : 16, "compressed" : 16 },
+
+    "veldspar" : { "uncompressed" : 0.1, "compressed" : 0.15 },
+    "dense veldspar" : { "uncompressed" : 0.1, "compressed" : 0.15 },
+    "stable veldspar" : { "uncompressed" : 0.1, "compressed" : 0.15 },
+    "concentrated veldspar" : { "uncompressed" : 0.1, "compressed" : 0.15 },
+    "amethystic crystallite" : { "uncompressed" : 3, "compressed" : 3 },
+    "cthonic attar" : { "uncompressed" : 6, "compressed" : 6 },
+    "hiemal tricarboxyl condensate" : { "uncompressed" : 6, "compressed" : 6 },
+    "hiemal tricarboxyl vapor" : { "uncompressed" : 6,"compressed" : 6 }
 
 }
