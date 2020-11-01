@@ -1,5 +1,5 @@
 # This program will ask three questions and give a calculation based on those answers.
-# 
+
 while True:
 
     oreVal = input("\nWhat ore are you transporting? \n")

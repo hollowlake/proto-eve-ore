@@ -1,0 +1,15 @@
+
+
+{
+  "veldspar":
+    {
+      "compressed" : 0.16,
+      "uncompressed" : 0.3
+    },
+  "pyroxeres":
+    {
+      "compressed" : 0.16,
+      "uncompressed" : 0.3
+    }
+
+}
