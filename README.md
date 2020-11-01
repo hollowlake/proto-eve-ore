@@ -1,7 +1,9 @@
 # Eve Online Ore Calculation Prototype
 
-This program was written to determine how much of a specific ore can fit inside a specified cargo space. 
+This is a prototype program in the working stages.
 
-It is a work-in-progress still in the prototype stages. 
+It is intended to be used to find how much of a specific ore can be carried in a specified amount of space.
+
+It's not the most useful program, but its good practice!
 
 hollowlake.dev
